@@ -1,7 +1,7 @@
 # Spring-JPA-Hibernate
 
 #Basic configuration for Spring JPA Hibernate
-1. Create pom.xml to add dependencya
+1. Create pom.xml, to add dependencya
 2. Create Config file to add configuration (ApplicationConfig.java).
 3. Create UserService to perform Operation. (UserService.java)
 4. Create Client to set as entry point.
